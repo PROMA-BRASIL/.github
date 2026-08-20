@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.webp">
-  <img src=".github/banner-light.webp" alt="Banner animado da PROMA BRASIL: lâminas metálicas diagonais sob luz azul-aço, com o wordmark PROMA" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/banner-dark.webp">
+  <img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/banner-light.webp" alt="Banner animado da PROMA BRASIL: lâminas metálicas diagonais sob luz azul-aço, com o wordmark PROMA" width="100%">
 </picture>
 
 <br><br>
@@ -52,8 +52,8 @@ Os repositórios desta organização são **privados**: aqui vivem os sistemas q
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/mark-dark.webp">
-  <img src=".github/mark-light.webp" alt="Símbolo da PROMA: quadrado com lâminas diagonais" width="26">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/mark-dark.webp">
+  <img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/mark-light.webp" alt="Símbolo da PROMA: quadrado com lâminas diagonais" width="26">
 </picture>
 
 <sub>PROMA BRASIL · Betim, MG</sub>
