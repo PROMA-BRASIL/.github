@@ -11,7 +11,7 @@
 
 Fornecedor Tier 1 do setor automotivo, com 26 plantas em 8 países. Esta organização reúne o software interno que move a operação brasileira a partir de Juatuba&nbsp;(MG) — principal planta do grupo na América Latina.
 
-🇦🇷 Argentina&nbsp;&nbsp;·&nbsp;&nbsp;**🇧🇷 Brasil**&nbsp;&nbsp;·&nbsp;&nbsp;🇪🇸 Espanha&nbsp;&nbsp;·&nbsp;&nbsp;🇮🇹 Itália&nbsp;&nbsp;·&nbsp;&nbsp;🇲🇦 Marrocos&nbsp;&nbsp;·&nbsp;&nbsp;🇲🇽 México&nbsp;&nbsp;·&nbsp;&nbsp;🇵🇱 Polônia&nbsp;&nbsp;·&nbsp;&nbsp;🇷🇸 Sérvia
+<img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/flags/ar.svg" height="13" alt="Bandeira da Argentina"> Argentina&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/flags/br.svg" height="13" alt="Bandeira do Brasil"> **Brasil**&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/flags/es.svg" height="13" alt="Bandeira da Espanha"> Espanha&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/flags/it.svg" height="13" alt="Bandeira da Itália"> Itália&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/flags/ma.svg" height="13" alt="Bandeira do Marrocos"> Marrocos&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/flags/mx.svg" height="13" alt="Bandeira do México"> México&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/flags/pl.svg" height="13" alt="Bandeira da Polônia"> Polônia&nbsp;&nbsp;·&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/flags/rs.svg" height="13" alt="Bandeira da Sérvia"> Sérvia
 
 <br>
 
