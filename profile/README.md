@@ -52,10 +52,10 @@ Os repositórios desta organização são **privados**: aqui vivem os sistemas q
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/mark-dark.webp">
-  <img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/mark-light.webp" alt="Símbolo da PROMA: quadrado com lâminas diagonais" width="26">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/mark-dark.svg">
+  <img src="https://raw.githubusercontent.com/PROMA-BRASIL/.github/main/.github/mark-light.svg" alt="Símbolo da PROMA: quadrado com lâminas diagonais" width="26">
 </picture>
 
-<sub>PROMA BRASIL · Betim, MG</sub>
+<sub>PROMA BRASIL · Juatuba, MG</sub>
 
 </div>
