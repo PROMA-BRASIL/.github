@@ -9,7 +9,7 @@
 
 ### Estruturas de bancos, conjuntos de carroceria e sistemas de fechamento para montadoras — estampados, soldados, montados e pintados sob o mesmo teto desde 1980.
 
-Fornecedor Tier 1 com 26 plantas em 8 países. Esta organização hospeda o software interno que move a operação brasileira, em Juatuba&nbsp;(MG).
+Fornecedor Tier 1 do setor automotivo, com 26 plantas em 8 países. Esta organização reúne o software interno que move a operação brasileira a partir de Juatuba&nbsp;(MG) — principal planta do grupo na América Latina.
 
 <br>
 
