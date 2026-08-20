@@ -11,6 +11,8 @@
 
 Fornecedor Tier 1 do setor automotivo, com 26 plantas em 8 países. Esta organização reúne o software interno que move a operação brasileira a partir de Juatuba&nbsp;(MG) — principal planta do grupo na América Latina.
 
+🇦🇷 Argentina&nbsp;&nbsp;·&nbsp;&nbsp;**🇧🇷 Brasil**&nbsp;&nbsp;·&nbsp;&nbsp;🇪🇸 Espanha&nbsp;&nbsp;·&nbsp;&nbsp;🇮🇹 Itália&nbsp;&nbsp;·&nbsp;&nbsp;🇲🇦 Marrocos&nbsp;&nbsp;·&nbsp;&nbsp;🇲🇽 México&nbsp;&nbsp;·&nbsp;&nbsp;🇵🇱 Polônia&nbsp;&nbsp;·&nbsp;&nbsp;🇷🇸 Sérvia
+
 <br>
 
 ![PHP](https://img.shields.io/badge/PHP-14102A?style=flat-square&logo=php&logoColor=4E9CD3)
